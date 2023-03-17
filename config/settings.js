@@ -5,7 +5,7 @@ global.owner = ['628996784156'] // no own
 global.author = 'AYLIZE BOTZ' // nama author 
 global.packname = 'aylize bot whatsapp' // nama pack sticker
 global.namabot = 'AYLIZE BOTZ' // nama bot mu
-global.group = 'https://watashianime.my.id' // grup mu
+global.group = 'https://bit.ly/3YWEw8O' // grup mu
 global.pic = 'https://telegra.ph/file/3d3e73c4cb0682671f25a.jpg' // logo bot
 
 
